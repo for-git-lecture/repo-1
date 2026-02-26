@@ -1,5 +1,5 @@
-const secondValue = 3
-const timeout = secondValue * 1000;
+const secondValue = 5
+const timeoutMillisecond = secondValue * 1;
 
 // timeout 후에 실행되는 함수
 setTimeout(() => {
